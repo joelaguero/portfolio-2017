@@ -1,7 +1,7 @@
-Typescript + React + Webpack Boilerplate
+Personal Website/Portfolio 2017
 =======================================
 
-Base project for setting up a frontend application using Typescript and React. Heavily based off of Dan Abramov's [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate).
+React and Typescript application built using [Typescript + React + Webpack Boilerplate](https://github.com/keokilee/react-typescript-boilerplate).
 
 Prerequisites
 ----------------------------------
