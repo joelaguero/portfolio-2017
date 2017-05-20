@@ -1,7 +1,7 @@
 {
-  "name": "react-typescript-boilerplate",
+  "name": "joelaguero-website-2017",
   "version": "1.0.0",
-  "description": "Boilerplate project that uses Typescript, React, and Webpack",
+  "description": "Personal website and portfolio for Joel Aguero's software development and design consultancy.",
   "main": "index.js",
   "scripts": {
     "build:webpack": "NODE_ENV=production webpack --config config/webpack.prod.js",
@@ -10,16 +10,16 @@
     "start": "node dev_server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "George Lee",
+  "author": "Joel Aguero",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keokilee/react-typescript-boilerplate.git"
+    "url": "https://github.com/joelaguero/portfolio-2017.git"
   },
   "bugs": {
-    "url": "https://github.com/keokilee/react-typescript-boilerplate/issues"
+    "url": "https://github.com/joelaguero/portfolio-2017/issues"
   },
-  "homepage": "https://github.com/keokilee/react-typescript-boilerplate",
+  "homepage": "https://github.com/joelaguero/portfolio-2017",
   "devDependencies": {
     "babel-core": "^6.4.5",
     "babel-loader": "^6.2.1",
